@@ -7,7 +7,7 @@ investX is a decentralized investment platform built on the Ethereum blockchain 
 The platform allows investment pool creators to set funding targets, minimum contribution amounts, and deadlines, while contributors can participate in pools that align with their investment goals. All transactions are recorded on the blockchain, providing complete transparency and immutable records of all investments.
 
 ## Project Vision
-
+ 
 Our vision is to democratize investment opportunities by creating a decentralized platform where anyone can:
 
 - **Create Investment Opportunities**: Enable entrepreneurs and project creators to raise funds for legitimate investment ventures
